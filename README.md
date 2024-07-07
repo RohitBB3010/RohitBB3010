@@ -5,7 +5,7 @@ Hi, I'm Rohit Bhandwalkar, and I turn coffee into code. What truly amazes me abo
 
 To keep myself sharp, I solve LeetCode problems and stay up-to-date with the latest tech trends.
 
-🌱 I’m currently honing my backend development skills with NodeJs and ExpressJs, aiming to create robust backend services.
+🌱 I’m currently honing my backend development skills with NodeJs and ExpressJs, aiming to create robust backend services.<br>
 👯 I’m looking to collaborate on various development projects, with a particular preference for Flutter projects. Let's Build!!!
 
 

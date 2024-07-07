@@ -1,5 +1,9 @@
 # 👋 Hi!!! I'm Rohit Bhandwalkar
 
+### [![Connect with Me](https://img.shields.io/badge/Connect%20with%20Me-555?style=for-the-badge&logo=connect)](https://example.com) Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-bhandwalkar/) [![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge)](https://rohitbb3010.vercel.app/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohitb.bhandwalkar@gmail.com)
+
+
 ## 👩‍💻 About Me
 Hi, I'm Rohit Bhandwalkar, and I turn coffee into code. What truly amazes me about coding is how an entire industry and millions of websites and applications can be created from scratch with lines of code. I specialize in Full Stack Development and App Development, with an affinity for solving problems.
 
